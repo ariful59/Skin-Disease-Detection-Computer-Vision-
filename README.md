@@ -11,7 +11,7 @@ Full Autoencoder: Compresses input skin lesion images into a lower-dimensional l
 # Technologies Used
 Programming Languages: Python
 
-Libraries & Frameworks: TensorFlow, Keras, OpenCV
+Libraries & Frameworks: Pytorch
 
 Techniques: Deep Learning, Convolutional Neural Networks, Autoencoders
 
